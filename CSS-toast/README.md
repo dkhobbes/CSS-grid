@@ -1,2 +1,1 @@
-# Here is an example of using Toast
-# References from ...
+## Here is an example of using Toast
